@@ -10,8 +10,8 @@
   </a>
 </h1>
 
-<br/>
-<br/>
+<br>
+<br>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
@@ -19,65 +19,61 @@
 - :mortar_board: Atualmente graduando em Sistemas de Informações (8º período)
 - :computer: Estudando Java a fim de iniciar carreira como dev
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreiSGomes&theme=transparent&bg_color=002138&border_color=9a48ff&show_icons=true&icon_color=9a48ff&title_color=9a48ff&text_color=FFF)
+
+
+<br>
+<br>
 
 <div id="tech"></div>
 
 ## 💻 Aprendendo...
 > <i>Linguagens e/ou ferramentas que estou estudando.</i>
 <br>
-<table align=>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/svg/html.svg" width="40"/>
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/svg/css.svg" width="40"/>
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="40"/>
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1365px-Figma-logo.svg.png" width="40"/>
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" width="40"/>
-      </a>
-      <br>PostgreSQL
-    </td>
-    </td> 
-  </tr>
-</table>
-<br>
+
+
+<img src="https://img.shields.io/badge/Java-3917ca?style=for-the-badge&logo=openjdk&logoColor=white" width=100px > &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML5-3917ca?style=for-the-badge&logo=html5&logoColor=white" width=110px height="37px"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS3-3917ca?style=for-the-badge&logo=css3&logoColor=white" width=100px > &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-3917ca?style=for-the-badge&logo=postgresql&logoColor=white" width=150px height="36px"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GIT-3917ca?style=for-the-badge&logo=git&logoColor=white" width=90px height="37px"> &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
 
 ##
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <p align="center"=><i>Caso você queira entrar em contato comigo</i></p>
  <p align="center">
-  <a href="https://www.linkedin.com/in/andreisgomes/"><img alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width=20px" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/euandreigomes"><img alt="Twitter" title="Twitter" src="https://www.sarkarinaukriexams.com/images/import/sne12855367825.png" width=20px/></a>&nbsp;&nbsp;&nbsp;
-   <a href="mailto:andreisouza07@gmail.com"><img alt="mail" title="mail" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width=20px/></a>
+  <a href="https://www.linkedin.com/in/andreisgomes/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-3917ca?style=for-the-badge&logo=linkedin&logoColor=white" width=100px" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/euandreigomes"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-3917ca?style=for-the-badge&logo=twitter&logoColor=white" width=100px"/></a>&nbsp;&nbsp;&nbsp;
+   <a href="mailto:andreisouza07@gmail.com"><img alt="mail" title="mail" src="https://img.shields.io/badge/Gmail-3917ca?style=for-the-badge&logo=gmail&logoColor=white" width=80px/></a>
 </p>
-<br>
 
 -----
