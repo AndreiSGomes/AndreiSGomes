@@ -1,41 +1,57 @@
-# 👋 Olá! Seja bem-vindo ao meu GitHub
+# 👋 Olá, eu sou o Andrei!
 
-## 🧑‍💻 Sobre mim
+🎯 **QA focado em Automação de Testes | Cypress | JavaScript | Qualidade de Software**
 
-🎓 Formado em **Sistemas de Informação**, tenho 32 anos e atuo como **Analista de Testes Manuais**.  
-🧪 Atualmente, estou focado em migrar para a área de **QA Automatizado**, estudando **Cypress**, **JavaScript** e testes end-to-end.  
-🚀 Busco oportunidades que me permitam aplicar boas práticas de testes, contribuir com a qualidade de software e crescer como profissional de QA.
+Sou formado em **Sistemas de Informação** e atuo como **Analista de Testes**, com experiência sólida em testes manuais (funcionais, exploratórios e regressivos).
 
----
+Atualmente estou em evolução para **QA Automatizado**, desenvolvendo projetos práticos com **Cypress**, aplicando boas práticas de testes end-to-end, testes de API e versionamento com Git.
 
-## 💡 Conhecimentos Atuais
-
-- ✅ Testes manuais (funcionais, exploratórios, regressivos)
-- ✅ Banco de dados (SQL básico: SELECT, INSERT, UPDATE)
-- ✅ Cypress + JavaScript
-- 🛠 Git, GitHub e versionamento de código
-- 🖥 HTML e lógica de programação (Java)
+Tenho perfil analítico, atenção a detalhes e foco em qualidade. Meu objetivo é garantir que o software entregue valor real ao usuário com segurança e confiabilidade.
 
 ---
 
-## 📚 Atualmente Estudando
+## 🧪 Stack de Qualidade
 
-- Cypress (testes end-to-end)
-- GitHub Actions (CI/CD para testes automatizados)
-- Testes de API com Postman
-- Boas práticas de QA ágil
-
----
-
-## 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/andreisgomes/)
-- 📧 qa.gomesandrei@gmail.com
+- 🔍 Testes Manuais (Funcional, Regressivo, Exploratório)
+- 🚀 Cypress (E2E & API)
+- 📜 JavaScript
+- 🗄 SQL (consultas e manipulação básica)
+- 🌿 Git & GitHub
+- 🖥 HTML
+- ☕ Lógica de Programação com Java
 
 ---
 
-> "Qualidade não é um ato, é um hábito."
+## 📚 Em Desenvolvimento
 
-Obrigado por visitar meu perfil! 🚀
+- 🔁 Integração contínua (CI/CD com GitHub Actions)
+- 🌐 Testes automatizados de API
+- 🧩 Arquitetura de testes escalável
+- 📊 Boas práticas de QA em times ágeis
+
+---
+
+## 📌 Projetos em Destaque
+
+Aqui você encontrará projetos focados em:
+
+✔ Automação de testes end-to-end  
+✔ Estruturação profissional de testes com Cypress  
+✔ Organização de comandos customizados  
+✔ Separação de testes por domínio (Usuário, Produto, Login, API)  
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como **QA Automatizado**, contribuindo para a evolução da qualidade do produto, melhoria contínua dos processos e construção de ambientes de testes confiáveis e escaláveis.
+
+---
+
+📫 Vamos nos conectar?
+
+- LinkedIn: *https://www.linkedin.com/in/andreisgomes/*
+
+
 
 
